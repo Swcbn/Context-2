@@ -1,6 +1,7 @@
-# Handwriting Recognition
+# Context 2
 
 Software to recognize handwriting.
+Based on https://github.com/samkit-jain/Handwriting-Recognition - go check it uout for yourself.
 
 
 # Screenshots
@@ -10,6 +11,12 @@ Software to recognize handwriting.
 <img src="https://github.com/samkit-jain/Handwriting-Recognition/blob/master/Screenshots/Handwritten%20Character%20Recognition%20(2).png" width="500"><br/>
 <img src="https://github.com/samkit-jain/Handwriting-Recognition/blob/master/Screenshots/screen21.png" width="300">
 <img src="https://github.com/samkit-jain/Handwriting-Recognition/blob/master/Screenshots/image13.png" width="700">
+
+# Requirements
+<ul>
+   <li>Python 3.0</li>
+   <li>or Android with Python</li>
+
 
 # Stats (Digit)
 
